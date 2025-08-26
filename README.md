@@ -2,7 +2,7 @@
 
 **Last updated:** 8/26/2025  
 
-Rideready values your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our mobile application (the "App").  
+[Your App Name] ("we," "our," or "us") values your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our mobile application (the "App").  
 
 ---
 
@@ -37,12 +37,24 @@ Examples include:
 
 ---
 
+## RevenueCat Services  
+
+Our App uses **RevenueCat** to manage in-app purchases and subscriptions. RevenueCat may collect and process certain information necessary to provide these services, such as:  
+
+- Purchase history and subscription status  
+- App usage related to in-app purchases  
+- Device and platform identifiers  
+
+RevenueCat processes this information in accordance with their [Privacy Policy](https://www.revenuecat.com/privacy).  
+
+---
+
 ## Sharing of Information  
 
 We do **not** sell, trade, or rent your personal information to third parties.  
 We may share data only in the following cases:  
 
-- With service providers that help us operate the App (e.g., Firebase).  
+- With service providers that help us operate the App (e.g., Firebase, RevenueCat).  
 - If required by law, regulation, or legal process.  
 - To protect the rights, property, or safety of our users and the App.  
 
@@ -50,7 +62,7 @@ We may share data only in the following cases:
 
 ## Data Security  
 
-We use industry-standard security measures (including Firebase’s built-in protections) to safeguard your data. However, no method of transmission or storage is 100% secure, so we cannot guarantee absolute security.  
+We use industry-standard security measures (including Firebase’s and RevenueCat’s built-in protections) to safeguard your data. However, no method of transmission or storage is 100% secure, so we cannot guarantee absolute security.  
 
 ---
 
