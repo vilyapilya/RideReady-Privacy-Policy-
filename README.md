@@ -2,7 +2,7 @@
 
 **Last updated:** 8/26/2025  
 
-[Your App Name] ("we," "our," or "us") values your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our mobile application (the "App").  
+Rideready values your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our mobile application (the "App").  
 
 ---
 
